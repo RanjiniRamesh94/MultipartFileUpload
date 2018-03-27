@@ -1,0 +1,21 @@
+VPC: Virtual Private Cloud
+networking space--all address gonna live in
+internet gateway to route requests to internet   -- to route traffics
+routing table
+
+subnet --part of the address space
+
+CIDR Block:
+
+Terraform: managing infrastructure as code. a tool to manage virtual server life cycle.
+HCL Hashicorp configuration language
+
+
+Terraform State:
+state file that exists on the disk. json file.what ur infrastructure look like.
+json
+updated when terraform runs
+refreshed befoe an operation takes place
+
+
+
